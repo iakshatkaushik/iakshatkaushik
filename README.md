@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Akshat. Interpretable machine learning for medicine and language.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/masthead-dark.svg">
+  <img src="assets/masthead-light.svg" width="100%" alt="Akshat. Interpretable machine learning for medicine and language.">
 </picture>
 
 I'm a Computer Science undergraduate at Thapar Institute of Engineering & Technology. I work on models that read retinal images, ECG and text, and on explaining what those models have learned.
@@ -8,8 +8,7 @@ I'm a Computer Science undergraduate at Thapar Institute of Engineering & Techno
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/head-now-dark.svg"><img src="assets/ui/head-now-light.svg" width="100%" alt="Now"></picture>
 
 - Research Intern (GenAI), Samsung R&D Institute, India
-- Research Intern, CardioVision, Thapar Institute
-- Research Intern, Inverse Reinforcement Learning, Thapar Institute
+- Research Intern, Thapar Institute
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/head-research-dark.svg"><img src="assets/ui/head-research-light.svg" width="100%" alt="Research"></picture>
 
@@ -89,6 +88,9 @@ I'm a Computer Science undergraduate at Thapar Institute of Engineering & Techno
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/head-elsewhere-dark.svg"><img src="assets/ui/head-elsewhere-light.svg" width="100%" alt="Elsewhere"></picture>
 
-[LinkedIn](https://www.linkedin.com/in/iakshatkaushik) · [ORCID](https://orcid.org/0009-0009-9848-3883)
+<p>
+  <a href="https://www.linkedin.com/in/iakshatkaushik"><img src="assets/ui/link-linkedin.svg" height="52" alt="LinkedIn" title="LinkedIn"></a>
+  <a href="https://orcid.org/0009-0009-9848-3883"><img src="assets/ui/link-orcid.svg" height="52" alt="ORCID" title="ORCID"></a>
+</p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/pulse-dark.svg"><img src="assets/ui/pulse-light.svg" width="100%" alt=""></picture>
