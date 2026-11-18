@@ -9,15 +9,25 @@ I'm a Computer Science undergraduate at Thapar Institute of Engineering & Techno
 
 - Research Intern (GenAI), Samsung R&D Institute, India
 - Research Intern, CardioVision, Thapar Institute
+- Research Intern, Inverse Reinforcement Learning, Thapar Institute
 
 ## Research
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/interests-dark.svg">
-  <img src="assets/interests-light.svg" width="100%" alt="Research interests: retinal fundus imaging, ECG and physiological signals, interpretability (SHAP, sparse autoencoders), biomedical and legal NLP, LLM evaluation and temporal robustness, LLM agents.">
+  <img src="assets/interests-light.svg" width="100%" alt="Research interests: retinal fundus imaging, ECG and physiological signals, interpretability (SHAP, sparse autoencoders), biomedical and legal NLP, LLM evaluation and temporal robustness, LLM agents and inverse reinforcement learning.">
 </picture>
 
-**CardioVision.** A funded project at Thapar Institute (Dassault Systèmes Foundation, with PGIMER as clinical partner) on non-invasive cardiovascular screening. It fuses ECG and retinal fundus biomarkers such as HRV, QT interval, vessel tortuosity and arteriovenous ratio, and benchmarks multimodal models against single-modality ones. I design and run the deep learning experiments in PyTorch.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/threads-dark.svg">
+  <img src="assets/threads-light.svg" width="100%" alt="Three research threads: CardioVision, NLP and LLM evaluation, and inverse reinforcement learning.">
+</picture>
+
+**CardioVision.** Research Intern at Thapar Institute.
+
+**NLP and LLM evaluation.** Biomedical named entity recognition and how it holds up as entities drift over time, across encoder and generative model families. In legal NLP, statistically tested comparisons of fine-tuned encoders against zero- and few-shot open-weight LLMs.
+
+**Inverse reinforcement learning.** Recovering the reward functions that explain an agent's observed behaviour, so that learned policies become interpretable.
 
 ## Projects
 
