@@ -43,8 +43,12 @@ I'm a Computer Science undergraduate at Thapar Institute of Engineering & Techno
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
-  <img src="assets/skills-light.svg" width="100%" alt="Languages: Python, C, C++, JavaScript, SQL, Bash. ML and DL: PyTorch, scikit-learn, XGBoost, SHAP, NumPy, pandas, OpenCV, Sentence Transformers, imbalanced-learn. Methods: experimental design, benchmarks and ablations, hypothesis testing, zero and few-shot LLM evaluation, sparse autoencoders, LaTeX. Backend and data: FastAPI, Flask, SQLAlchemy, PostgreSQL, MySQL, SQLite, ChromaDB. Infrastructure: Linux, Git, GitHub, AWS EC2, Nginx, Gemini API, Google Cloud APIs, Kaggle.">
+  <img src="assets/skills-light.svg" width="100%" alt="Languages: Python, C, C++, JavaScript, Rust, Bash. ML and data: PyTorch, scikit-learn, NumPy, pandas, OpenCV, Kaggle, Gemini API. Web and backend: FastAPI, Flask, React, Vite, Tauri, PostgreSQL, MySQL, SQLite, SQLAlchemy. Tools and infra: Linux, Git, GitHub, AWS, Nginx, Google Cloud, LaTeX.">
 </picture>
+
+**Also** XGBoost, SHAP, Sentence Transformers, imbalanced-learn, ChromaDB, YOLO
+
+**Methods** experimental design, benchmark and ablation evaluation, statistical hypothesis testing, zero- and few-shot LLM evaluation, model interpretability (SHAP, sparse autoencoders)
 
 ## Elsewhere
 
