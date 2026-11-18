@@ -87,6 +87,7 @@ I'm a Computer Science undergraduate at Thapar Institute of Engineering & Techno
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/head-elsewhere-dark.svg"><img src="assets/ui/head-elsewhere-light.svg" width="100%" alt="Elsewhere"></picture>
 
 <p>
+  <a href="https://iakshatkaushik.github.io"><img src="assets/ui/link-website.svg" height="52" alt="Website" title="Website"></a>
   <a href="https://www.linkedin.com/in/iakshatkaushik"><img src="assets/ui/link-linkedin.svg" height="52" alt="LinkedIn" title="LinkedIn"></a>
   <a href="https://orcid.org/0009-0009-9848-3883"><img src="assets/ui/link-orcid.svg" height="52" alt="ORCID" title="ORCID"></a>
 </p>
