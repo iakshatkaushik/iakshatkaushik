@@ -9,11 +9,13 @@ I'm a Computer Science undergraduate at Thapar Institute of Engineering & Techno
 
 - Research Intern (GenAI), Samsung R&D Institute, India
 - Research Intern, CardioVision, Thapar Institute
-- Founder, Epoch, an early-stage AI healthcare research initiative
 
 ## Research
 
-**Interests.** Multimodal medical AI (retinal fundus imaging, ECG), interpretable deep learning and explainable AI, biomedical and legal NLP, evaluation and temporal robustness of large language models, LLM agents.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/interests-dark.svg">
+  <img src="assets/interests-light.svg" width="100%" alt="Research interests: retinal fundus imaging, ECG and physiological signals, interpretability (SHAP, sparse autoencoders), biomedical and legal NLP, LLM evaluation and temporal robustness, LLM agents.">
+</picture>
 
 **CardioVision.** A funded project at Thapar Institute (Dassault Systèmes Foundation, with PGIMER as clinical partner) on non-invasive cardiovascular screening. It fuses ECG and retinal fundus biomarkers such as HRV, QT interval, vessel tortuosity and arteriovenous ratio, and benchmarks multimodal models against single-modality ones. I design and run the deep learning experiments in PyTorch.
 
@@ -27,9 +29,12 @@ I'm a Computer Science undergraduate at Thapar Institute of Engineering & Techno
 
 **[few-shot-anomaly-views](https://github.com/iakshatkaushik/few-shot-anomaly-views)**: few-shot visual anomaly detection, comparing augmented views as nearest-neighbour memory against contrastive training on frozen DINOv2/DINOv3 features.
 
-## Tools
+## Skills
 
-Python, C, C++, JavaScript, SQL · PyTorch, scikit-learn, XGBoost, SHAP, OpenCV · FastAPI, PostgreSQL, ChromaDB, AWS EC2, Linux
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
+  <img src="assets/skills-light.svg" width="100%" alt="Languages: Python, C, C++, JavaScript, SQL, Bash. ML and DL: PyTorch, scikit-learn, XGBoost, SHAP, NumPy, pandas, OpenCV, Sentence Transformers, imbalanced-learn. Methods: experimental design, benchmarks and ablations, hypothesis testing, zero and few-shot LLM evaluation, sparse autoencoders, LaTeX. Backend and data: FastAPI, Flask, SQLAlchemy, PostgreSQL, MySQL, SQLite, ChromaDB. Infrastructure: Linux, Git, GitHub, AWS EC2, Nginx, Gemini API, Google Cloud APIs, Kaggle.">
+</picture>
 
 ## Elsewhere
 
