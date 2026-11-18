@@ -81,24 +81,8 @@ I'm a Computer Science undergraduate at Thapar Institute of Engineering & Techno
   <img src="assets/skills/gcp.svg" height="52" alt="Google Cloud APIs" title="Google Cloud APIs">
   <img src="assets/skills/latex.svg" height="52" alt="LaTeX" title="LaTeX">
 </p>
-<p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/label-libraries-dark.svg"><img src="assets/ui/label-libraries-light.svg" height="52" alt="Libraries:"></picture>
-  <img src="assets/chips/xgboost.svg" height="52" alt="XGBoost" title="XGBoost">
-  <img src="assets/chips/shap.svg" height="52" alt="SHAP" title="SHAP">
-  <img src="assets/chips/sentence-transformers.svg" height="52" alt="Sentence Transformers" title="Sentence Transformers">
-  <img src="assets/chips/imbalanced-learn.svg" height="52" alt="imbalanced-learn" title="imbalanced-learn">
-  <img src="assets/chips/chromadb.svg" height="52" alt="ChromaDB" title="ChromaDB">
-  <img src="assets/chips/yolo.svg" height="52" alt="YOLO" title="YOLO">
-</p>
-<p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/label-methods-dark.svg"><img src="assets/ui/label-methods-light.svg" height="52" alt="Methods:"></picture>
-  <img src="assets/chips/experimental-design.svg" height="52" alt="Experimental design" title="Experimental design">
-  <img src="assets/chips/benchmarks-ablations.svg" height="52" alt="Benchmarks &amp; ablations" title="Benchmarks &amp; ablations">
-  <img src="assets/chips/hypothesis-testing.svg" height="52" alt="Hypothesis testing" title="Hypothesis testing">
-  <img src="assets/chips/zero-few-shot-llm-eval.svg" height="52" alt="Zero/few-shot LLM eval" title="Zero/few-shot LLM eval">
-  <img src="assets/chips/interpretability.svg" height="52" alt="Interpretability" title="Interpretability">
-  <img src="assets/chips/sparse-autoencoders.svg" height="52" alt="Sparse autoencoders" title="Sparse autoencoders">
-</p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/row-libraries-dark.svg"><img src="assets/ui/row-libraries-light.svg" width="100%" alt="Libraries: XGBoost, SHAP, Sentence Transformers, imbalanced-learn, ChromaDB, YOLO"></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/row-methods-dark.svg"><img src="assets/ui/row-methods-light.svg" width="100%" alt="Methods: Experimental design, Benchmarks and ablations, Hypothesis testing, Zero/few-shot LLM eval, Interpretability, Sparse autoencoders"></picture></p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/head-elsewhere-dark.svg"><img src="assets/ui/head-elsewhere-light.svg" width="100%" alt="Elsewhere"></picture>
 
